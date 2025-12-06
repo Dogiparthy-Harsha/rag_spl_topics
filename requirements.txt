@@ -1,0 +1,11 @@
+boto3
+langchain
+langchain-community
+langchain-aws
+chromadb
+streamlit
+presidio-analyzer
+presidio-anonymizer
+pypdf
+tiktoken
+https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.5.0/en_core_web_lg-3.5.0.tar.gz
